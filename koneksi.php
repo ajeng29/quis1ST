@@ -6,7 +6,7 @@
 	<?php
 	$namaHost = "10.0.0.184";
 	$username = "admin";
-	$password = "";
+	$password = "Teh_manis29";
 	$database = "projekakhir1";
 	$connect = mysqli_connect($namaHost, $username, $password, 
 		$database);
