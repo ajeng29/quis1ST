@@ -4,11 +4,10 @@
 </head>
 <body>
 	<?php
-	$namaHost = "localhost";
-	$username = "root";
+	$namaHost = "10.0.0.184";
+	$username = "admin";
 	$password = "";
 	$database = "projekakhir1";
-
 	$connect = mysqli_connect($namaHost, $username, $password, 
 		$database);
 	?>
